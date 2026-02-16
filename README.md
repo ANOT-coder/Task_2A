@@ -63,7 +63,7 @@ The final model was evaluated on a 20% validation split, showing exceptional sta
 | :--- | :--- | :--- | :--- |
 | **Training Acc** | 94.03% | 71.04% | **98.75%** |
 | **Validation Acc** | 51.00% | 61.37% | **96.25%** |
-| **Status** | Failed (Overfit) | Failed (Underfit) | **Success (GOAT)** |
+| **Status** | Failed (Overfit) | Failed (Underfit) | **Success (Satisified)** |
 
 ### 📊 Training Visualization
 
