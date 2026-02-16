@@ -1,0 +1,32 @@
+# Data and Large Files (Never upload the 25k images to Git)
+train/
+test1/
+*.zip
+*.tar.gz
+
+# Python & Jupyter Notebooks
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+checkpoint/
+.virtualenv/
+venv/
+env/
+Data_Sets/
+
+# Model Files (Optional: Ignore if models are >100MB, upload to cloud instead)
+*.h5
+*.keras
+*.tflite
+*.weights.h5
+
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# VS Code settings
+.vscode/
