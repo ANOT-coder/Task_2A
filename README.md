@@ -31,7 +31,7 @@ To reach the final objective under a strict deadline and GPU quota limits, the p
 ---
 
 ## 🧠 Why MobileNetV2? (Technical Architecture)
-The project utilizes the **MobileNetV2** architecture, which is a "GOAT" model for constrained environments. It uses **Depthwise Separable Convolutions**, which drastically reduces the number of parameters compared to standard convolutions.
+The project utilizes the **MobileNetV2** architecture, which is a great model for constrained environments. It uses **Depthwise Separable Convolutions**, which drastically reduces the number of parameters compared to standard convolutions.
 
 ### 🔬 The Concept of Global Average Pooling (GAP)
 Instead of using a traditional `Flatten()` layer that creates millions of trainable parameters, we used **Global Average Pooling**.
